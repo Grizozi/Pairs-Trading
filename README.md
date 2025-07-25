@@ -12,6 +12,8 @@ The project is built in a modular fashion using Python classes and Jupyter Noteb
 
 This forms a base for developing and testing various pairs trading models using real-world or simulated price series.
 
+**Note:** The current implementation is intentionally simplified and may suffer from overfitting and look-ahead bias. These issues are known and will be addressed in future iterations as part of the learning and development process.
+
 ## 🧠 Learning Goals
 
 - Understand the intuition and mathematics behind pairs trading
